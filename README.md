@@ -19,3 +19,7 @@ Implements a real time finder as well
 3. Have fun!
 
 ![Hero Image]("./../image/hero.png "Hero Image")
+
+## Live demo
+
+Check out a live demo of the project [here](https://simple-react-app-cromewar.herokuapp.com/).
